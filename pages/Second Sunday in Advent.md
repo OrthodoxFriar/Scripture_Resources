@@ -1,0 +1,57 @@
+- Sunday
+  collapsed:: true
+	- Morning Prayer
+		- [[Psalm 25]]
+		- [[Psalm 119]]
+		- [[Isaiah 52]]
+		- [[Luke 1]]
+		- [[2 Timothy 3]]
+	- Evening Prayer
+		- [[Psalm 119]]
+		- [[Psalm 67]]
+		- [[Psalm 111]]
+		- [[Amos 3]]
+		- [[Isaiah 11]]
+		- [[1 Thessalonians 2]]
+		- [[John 5]]
+- Monday
+  collapsed:: true
+	- Morning Prayer
+		- [[Psalm 33]]
+		- [[Isaiah 8]]
+		- [[Mark 2]]
+	- Evening Prayer
+		- [[Psalm 42]]
+		- [[Psalm 43]]
+		- [[Isaiah 9]]
+		- [[Revelation 11]]
+- Tuesday
+  collapsed:: true
+	- Morning Prayer
+		- [[Psalm 48]]
+		- [[Isaiah 9]]
+		- [[Mark 3]]
+	- Evening Prayer
+		- [[Psalm 46]]
+		- [[Psalm 47]]
+		- [[Isaiah 10]]
+		- [[Isaiah 13]]
+		- [[Revelation 12]]
+- Wednesday
+	- Morning Prayer
+		- [[Psalm 50]]
+		- [[Isaiah 11]]
+		- [[Mark 3]]
+	- Evening Prayer
+		- ((6391569b-2ee3-41da-81ae-b7f9ead9180a))
+		- ((63916404-b518-4d88-854f-4a6d73098770))
+		- [Revelation 13:1-10](((63915937-b643-4ec7-8310-b752238ebb6a)))
+- Thursday
+	- Morning Prayer
+		- ((63915d72-e790-4dac-858a-b9a4e7fe9b3a))
+		- ((63915e4f-dcfa-4055-9fb4-631d76554418))
+		- [Isaiah 13:1-5](((63915fd9-59c0-4790-aeae-4649f68c4ed1)))
+		- [Isaiah 13:17-22](((6391605d-4fff-4e2f-bd79-cb8867db9a2f)))
+		- [Mark 4:1-20](((639162b0-7ce8-4e10-be8d-7a12e3875ccc)))
+- Friday
+- Saturday
