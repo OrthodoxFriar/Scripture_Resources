@@ -1,15 +1,15 @@
-- {{query (property template)}}
-- template:: daily
-	- ## Third Sunday in Advent
+template:: daily
+
+	- ## Third Sunday in Advent - Sunday
 		- ### Morning Prayer
 			- Book of Psalms
 			- First Lesson
 			- Second Lesson
-		- ### Chronological Bible Reading
-			- First
-			- Second
-			- Third
 		- ### Evening Prayer
 			- Book of Psalms
 			- First Lesson
 			- Second Lesson
+		- ### Bible in a Year Reading
+			- First
+			- Second
+			- Third
