@@ -1,5 +1,6 @@
 - ## Psalm 46
   id:: 63900e16-c8e5-4d8f-a724-f92995ceae12
+  Scripture Version:: #AKJV
 	- ### To the chief Musician for the sons of Korah, A Song upon Alamoth.
 		- 1 God *is* our refuge and strength,
 		  a very present help in trouble.

@@ -1,5 +1,6 @@
 - ## Psalm 97
   id:: 63900fdc-bbc1-4641-8997-a748c3ef5ec2
+  Scripture Version:: AKJV
 	- 1 The Lord reigneth; let the earth rejoice;
 	  let the multitude of isles be glad *thereof*.
 	- 2 Clouds and darkness *are* round about him:

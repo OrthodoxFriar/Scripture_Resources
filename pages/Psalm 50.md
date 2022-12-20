@@ -1,5 +1,6 @@
 - ## Psalm 50
   id:: 63900f7d-6abf-4c22-aa9b-f0ed133bd2e6
+  Scripture Version:: AKJV
 	- ### A Psalm of Asaph.
 		- 1 The mighty God, *even* the Lord, hath spoken,
 		  and called the earth from the rising of the sun unto the going down thereof.
