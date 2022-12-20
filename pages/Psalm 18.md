@@ -1,5 +1,5 @@
 - ## Psalm 18
-  Scripture Version:: #AKJV
+  Version:: #AKJV
 	- #### To the chief Musician, *A Psalm* of David, the servant of the Lord, who spake unto the Lord the words of this song in the day *that* the Lord delivered him from the hand of all his enemies, and from the hand of Saul: And he said,
 	- 1 I will love thee, O Lord, my strength.
 	- 2 The Lord *is* my rock, and my fortress, and my deliverer;

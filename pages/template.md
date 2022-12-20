@@ -15,7 +15,7 @@ template:: daily
 			- Third
 - Week of:: [[First Sunday in Advent]]
   Day of Week:: Sunday
-  Scripture Version:: #AKJV
+  Version:: #AKJV
   template:: akjv
 	- ## Psalms and Lessons for the Christian Year
 		- ### Morning Prayer
