@@ -1,4 +1,5 @@
 - ## First Sunday in Advent - Thursday
+  id:: 63a2440e-803a-43f1-b2bf-9f270a023746
 	- Week of:: [[First Sunday in Advent]]
 	  Day of Week:: Thursday
 	  Version:: #AKJV
