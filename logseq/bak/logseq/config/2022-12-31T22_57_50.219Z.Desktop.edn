@@ -225,7 +225,7 @@
  :property-pages/enabled? true
  :zotero/settings-v2 {"default" {:type-id "5885474", :zotero-data-directory "C:\\Users\\ortho\\Zotero"}}
  :journal/page-title-format "yyyy-MM-dd"
- :preferred-format :markdown
+ :preferred-format :org
 
  ;; Properties to exclude from having property pages
  ;; E.g.:property-pages/excludelist #{:duration :author}
