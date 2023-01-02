@@ -1,7 +1,8 @@
+- #Reserved
 - ## Psalm 1
-  Version:: #AKJV
   id:: 63a203ec-528a-4d43-8629-0b563207f2e8
-	- 1 Blessed *is* the man that walketh not in the counsel of the ungodly,
+  Version:: AKJV
+	- 1 Blessed _is_ the man that walketh not in the counsel of the ungodly,
 	  nor standeth in the way of sinners,
 	  nor sitteth in the seat of the scornful.
 	- 2 But his delight *is* in the law of the Lord;

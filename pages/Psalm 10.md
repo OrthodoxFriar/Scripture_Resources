@@ -1,7 +1,8 @@
+- #Reserved
 - ## Psalm 10
-  Version:: #AKJV
 	- ### Psalm 10
 	  id:: 63a22ba6-4a6a-4c8c-8e2d-d483df7976ed
+	  version:: AKJV
 		- 1 Why standest thou afar off, O Lord?
 		  *why* hidest thou *thyself* in times of trouble?
 		- 2 The wicked in *his* pride doth persecute the poor:

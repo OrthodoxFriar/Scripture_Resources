@@ -5,7 +5,6 @@
   Version:: #akjv
 	- ## Psalms and Lessons for the Christian Year
 		- ### Morning Prayer
-		  collapsed:: true
 			- #### Psalms
 				- ((63900f7d-6abf-4c22-aa9b-f0ed133bd2e6))
 				- ((63900e16-c8e5-4d8f-a724-f92995ceae12))
@@ -17,7 +16,6 @@
 				- ((63a1e324-8f3a-4b81-bc82-d12c70c9253e))
 				- ((63a1e3d3-8a43-4460-a1fd-4edc294774da))
 		- ### Evening Prayer
-		  collapsed:: true
 			- #### Psalms
 				- ((63a1e529-492f-47ff-a4b1-9c9342bfc2ae))
 				- ((63a1e60b-5cc6-4f03-99ea-5a209e22122a))
