@@ -2,6 +2,7 @@
 - ### Genesis 3
   version:: AKJV
   chron:: day001
+  id:: 63b24ab1-8ada-4632-a8ea-e5b71c8de3e5
 	- 1 Now the serpent was more subtil than any beast of the field which the Lord God had made. And he said unto the woman, Yea, hath God said, Ye shall not eat of every tree of the garden?
 	- 2 And the woman said unto the serpent, We may eat of the fruit of the trees of the garden:
 	- 3 but of the fruit of the tree which *is* in the midst of the garden, God hath said, Ye shall not eat of it, neither shall ye touch it, lest ye die.

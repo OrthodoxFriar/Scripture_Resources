@@ -2,6 +2,7 @@
 - ### Genesis 2
   version:: AKJV
   chron:: day001
+  id:: 63b24ab1-3e6b-4e0d-ae24-407a949e11ab
 	- 1 Thus the heavens and the earth were finished, and all the host of them.
 	- 2 And on the seventh day God ended his work which he had made; and he rested on the seventh day from all his work which he had made.
 	- 3 And God blessed the seventh day, and sanctified it: because that in it he had rested from all his work which God created and made.
