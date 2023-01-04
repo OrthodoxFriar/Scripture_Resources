@@ -18,6 +18,6 @@
 		- #### Second Lesson
 - ### Genesis
   version:: AKJV
-  chron:: day007
+  chron:: day008
   template:: gen
 	-
